@@ -1,0 +1,152 @@
+symptom_id,symptom_name,body_area,source,question_text,answer_type,source_note,pdf_pages
+S001,Increased thirst,General,PDF,Are you experiencing increased thirst?,yes_no,Present in the uploaded PDF or its page image.,1
+S002,Increased hunger,General,PDF,Are you experiencing increased hunger?,yes_no,Present in the uploaded PDF or its page image.,1
+S003,Numbness or tingling,Neurological,PDF,Are you experiencing numbness or tingling?,yes_no,Present in the uploaded PDF or its page image.,1;6
+S004,Tiredness or fatigue,General,PDF,Are you experiencing tiredness or fatigue?,yes_no,Present in the uploaded PDF or its page image.,1;2;3;4;5;6;7;8;12
+S005,Shortness of breath,Chest,PDF,Are you experiencing shortness of breath?,yes_no,Present in the uploaded PDF or its page image.,1;2;3;4;5
+S006,Dry or itchy skin,Skin,PDF,Are you experiencing dry or itchy skin?,yes_no,Present in the uploaded PDF or its page image.,1
+S007,Frequent infections,General,PDF,Are you experiencing frequent infections?,yes_no,Present in the uploaded PDF or its page image.,1;6;11
+S008,Frequent urination,General,Supplemental,Are you experiencing frequent urination?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S009,Unexplained weight loss,General,Supplemental,Are you experiencing unexplained weight loss?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S010,Blurred vision,Eyes/Head,PDF,Are you experiencing blurred vision?,yes_no,Present in the uploaded PDF or its page image.,1;2;6
+S011,Heat intolerance,General,Supplemental,Are you experiencing heat intolerance?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S012,Cold intolerance,General,Supplemental,Are you experiencing cold intolerance?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S013,Weight change,General,Supplemental,Are you experiencing weight change?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S014,Fast or irregular heartbeat,Chest,Supplemental,Are you experiencing fast or irregular heartbeat?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S015,Neck swelling,Neck,Supplemental,Are you experiencing neck swelling?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S016,Tremor,Neurological,Supplemental,Are you experiencing tremor?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S017,Chronic cough,Chest,PDF,Are you experiencing chronic cough?,yes_no,Present in the uploaded PDF or its page image.,1
+S018,Wheezing,Chest,PDF,Are you experiencing wheezing?,yes_no,Present in the uploaded PDF or its page image.,1;4
+S019,Increased sputum/phlegm,Chest,Supplemental,Are you experiencing increased sputum/phlegm?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S020,Breathlessness during activity,Chest,PDF,Are you experiencing breathlessness during activity?,yes_no,Present in the uploaded PDF or its page image.,1
+S021,Sudden weakness,Neurological,PDF,Have you experienced sudden weakness?,yes_no,Present in the uploaded PDF or its page image.,1
+S022,Sudden dizziness,Head,PDF,Have you experienced sudden dizziness?,yes_no,Present in the uploaded PDF or its page image.,1
+S023,Sudden confusion,Head,PDF,Have you experienced sudden confusion?,yes_no,Present in the uploaded PDF or its page image.,1
+S024,Difficulty speaking,Head,Supplemental,Are you having difficulty speaking?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S025,Facial drooping,Head,Supplemental,Have you noticed facial drooping?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S026,Loss of balance or coordination,Head,Supplemental,Are you having trouble with balance or coordination?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S027,Severe headache,Head,PDF,Are you experiencing severe headache?,yes_no,Present in the uploaded PDF or its page image.,1;2
+S028,Persistent sadness or hopelessness,Mental,PDF,Are you experiencing persistent sadness or hopelessness?,yes_no,Present in the uploaded PDF or its page image.,2
+S029,Loss of interest in activities,Mental,PDF,Are you experiencing loss of interest in activities?,yes_no,Present in the uploaded PDF or its page image.,2
+S030,Trouble concentrating,Mental,PDF,Are you experiencing trouble concentrating?,yes_no,Present in the uploaded PDF or its page image.,2;7
+S031,Mood swings,Mental,PDF,Are you experiencing mood swings?,yes_no,Present in the uploaded PDF or its page image.,2
+S032,Excessive worry,Mental,PDF,Are you experiencing excessive worry?,yes_no,Present in the uploaded PDF or its page image.,2;7
+S033,Restlessness,Mental,PDF,Are you experiencing restlessness?,yes_no,Present in the uploaded PDF or its page image.,2;7
+S034,Rapid heartbeat,Chest,PDF,Are you experiencing rapid heartbeat?,yes_no,Present in the uploaded PDF or its page image.,2;3;7
+S035,Sweating,General,PDF,Are you experiencing sweating?,yes_no,Present in the uploaded PDF or its page image.,2;7
+S036,Sleep problems,Sleep,PDF,Are you experiencing sleep problems?,yes_no,Present in the uploaded PDF or its page image.,2;7
+S037,Nosebleed,Nose,PDF,Have you had a nosebleed?,yes_no,Present in the uploaded PDF or its page image.,2
+S038,Chest pain or discomfort,Chest,PDF,Are you experiencing chest pain or discomfort?,yes_no,Present in the uploaded PDF or its page image.,2;3
+S039,Unexplained fatigue,General,PDF,Are you experiencing unexplained fatigue?,yes_no,Present in the uploaded PDF or its page image.,3
+S040,Itchy skin,Skin,PDF,Are you experiencing itchy skin?,yes_no,Present in the uploaded PDF or its page image.,2
+S041,Dark-colored urine,Urinary/Abdomen,PDF,Are you experiencing dark-colored urine?,yes_no,Present in the uploaded PDF or its page image.,2;5
+S042,Pale or clay-colored stools,Abdomen,PDF,Are you experiencing pale or clay-colored stools?,yes_no,Present in the uploaded PDF or its page image.,2;5
+S043,Jaundice/yellowing of skin or eyes,Abdomen,PDF,Have you noticed yellowing of your skin or eyes?,yes_no,Present in the uploaded PDF or its page image.,2;5
+S044,Hair and skin changes,Skin,PDF,Are you experiencing hair and skin changes?,yes_no,Present in the uploaded PDF or its page image.,1;2
+S045,Cough lasting more than three weeks,Chest,PDF,Are you experiencing cough lasting more than three weeks?,yes_no,Present in the uploaded PDF or its page image.,3
+S046,Coughing up blood or sputum,Chest,PDF,Are you coughing up blood or blood-stained sputum?,yes_no,Present in the uploaded PDF or its page image.,3
+S047,Night sweats,General,PDF,Are you experiencing night sweats?,yes_no,Present in the uploaded PDF or its page image.,3
+S048,Weight loss with prolonged illness,General,PDF,Are you experiencing weight loss with prolonged illness?,yes_no,Present in the uploaded PDF or its page image.,3;11
+S049,Sudden severe watery diarrhea,Abdomen,PDF,Are you experiencing sudden severe watery diarrhea?,yes_no,Present in the uploaded PDF or its page image.,4
+S050,Vomiting,Abdomen,PDF,Are you experiencing vomiting?,yes_no,Present in the uploaded PDF or its page image.,4;5;9;12
+S051,Rapid dehydration,General,PDF,Are you showing signs of rapid dehydration?,yes_no,Present in the uploaded PDF or its page image.,4
+S052,Muscle cramps,Musculoskeletal,PDF,Are you experiencing muscle cramps?,yes_no,Present in the uploaded PDF or its page image.,4
+S053,Fever with chills,General,PDF,Are you experiencing fever with chills?,yes_no,Present in the uploaded PDF or its page image.,4;5
+S054,Dry cough,Chest,PDF,Are you experiencing dry cough?,yes_no,Present in the uploaded PDF or its page image.,4
+S055,Loss of taste or smell,Head,PDF,Have you lost your sense of taste or smell?,yes_no,Present in the uploaded PDF or its page image.,4
+S056,Chest tightness,Chest,PDF,Are you experiencing chest tightness?,yes_no,Present in the uploaded PDF or its page image.,4
+S057,Persistent coughing,Chest,PDF,Are you experiencing persistent coughing?,yes_no,Present in the uploaded PDF or its page image.,1;4
+S058,Nausea,Abdomen,PDF,Are you experiencing nausea?,yes_no,Present in the uploaded PDF or its page image.,2;5;8;9;12
+S059,Stomach cramps,Abdomen,PDF,Are you experiencing stomach cramps?,yes_no,Present in the uploaded PDF or its page image.,5
+S060,Low-grade fever,General,PDF,Are you experiencing low-grade fever?,yes_no,Present in the uploaded PDF or its page image.,5;6
+S061,Watery diarrhea,Abdomen,PDF,Are you experiencing watery diarrhea?,yes_no,Present in the uploaded PDF or its page image.,5
+S062,Upper-right abdominal pain,Abdomen,PDF,Are you experiencing upper-right abdominal pain?,yes_no,Present in the uploaded PDF or its page image.,5;9
+S063,Nausea and upper-right abdominal pain,Abdomen,PDF,Are you experiencing nausea and upper-right abdominal pain?,yes_no,Present in the uploaded PDF or its page image.,5
+S064,Cough with phlegm or pus,Chest,PDF,Are you experiencing cough with phlegm or pus?,yes_no,Present in the uploaded PDF or its page image.,5
+S065,Sharp chest pain when breathing,Chest,PDF,Are you experiencing sharp chest pain when breathing?,yes_no,Present in the uploaded PDF or its page image.,5
+S066,Runny or stuffy nose,Nose,PDF,Are you experiencing runny or stuffy nose?,yes_no,Present in the uploaded PDF or its page image.,4;6;8
+S067,Sore throat,Throat,PDF,Are you experiencing sore throat?,yes_no,Present in the uploaded PDF or its page image.,4;6;8
+S068,Sneezing,Nose,PDF,Are you experiencing sneezing?,yes_no,Present in the uploaded PDF or its page image.,6
+S069,Mild body aches,Musculoskeletal,PDF,Are you experiencing mild body aches?,yes_no,Present in the uploaded PDF or its page image.,6
+S070,Extreme fatigue,General,PDF,Are you experiencing extreme fatigue?,yes_no,Present in the uploaded PDF or its page image.,6;11
+S071,Itchy rash,Skin,PDF,Are you experiencing itchy rash?,yes_no,Present in the uploaded PDF or its page image.,6
+S072,Fluid-filled blisters,Skin,PDF,Do you have fluid-filled blisters?,yes_no,Present in the uploaded PDF or its page image.,6
+S073,Loss of appetite,General,PDF,Are you experiencing loss of appetite?,yes_no,Present in the uploaded PDF or its page image.,2;3;5;6;7;8
+S074,Headache,Head,PDF,Are you experiencing headache?,yes_no,Present in the uploaded PDF or its page image.,4;6;7;8;12
+S075,Back pain,Musculoskeletal,PDF,Are you experiencing back pain?,yes_no,Present in the uploaded PDF or its page image.,7
+S076,Loss of height,Musculoskeletal,PDF,Are you experiencing loss of height?,yes_no,Present in the uploaded PDF or its page image.,7
+S077,Stooped posture,Musculoskeletal,PDF,Are you experiencing stooped posture?,yes_no,Present in the uploaded PDF or its page image.,7
+S078,Fracture,Musculoskeletal,PDF,Are you experiencing fracture?,yes_no,Present in the uploaded PDF or its page image.,7
+S079,Bone weakness,Musculoskeletal,PDF,Are you experiencing bone weakness?,yes_no,Present in the uploaded PDF or its page image.,7
+S080,Painful swollen cheeks/jaw,Face,PDF,Are you experiencing painful swollen cheeks/jaw?,yes_no,Present in the uploaded PDF or its page image.,7
+S081,Difficulty chewing,Mouth,PDF,Are you experiencing difficulty chewing?,yes_no,Present in the uploaded PDF or its page image.,7
+S082,High fever,General,PDF,Are you experiencing a high fever?,yes_no,Present in the uploaded PDF or its page image.,8;12
+S083,Cough,Chest,PDF,Are you experiencing cough?,yes_no,Present in the uploaded PDF or its page image.,4;5;6;8
+S084,Red eyes,Eyes/Head,PDF,Do you have red or watery eyes?,yes_no,Present in the uploaded PDF or its page image.,8
+S085,Rash,Skin,PDF,Do you have a skin rash?,yes_no,Present in the uploaded PDF or its page image.,8;12
+S086,Small spots inside mouth,Mouth,PDF,Are you experiencing small spots inside mouth?,yes_no,Present in the uploaded PDF or its page image.,8
+S087,Burning stomach pain,Abdomen,PDF,Are you experiencing burning stomach pain?,yes_no,Present in the uploaded PDF or its page image.,8
+S088,Bloating,Abdomen,PDF,Are you experiencing bloating?,yes_no,Present in the uploaded PDF or its page image.,8;9
+S089,Indigestion,Abdomen,PDF,Are you experiencing indigestion?,yes_no,Present in the uploaded PDF or its page image.,8;9
+S090,Belching,Abdomen,PDF,Are you experiencing belching?,yes_no,Present in the uploaded PDF or its page image.,8
+S091,Swollen tonsils,Throat,PDF,Are you experiencing swollen tonsils?,yes_no,Present in the uploaded PDF or its page image.,8
+S092,Difficulty swallowing,Throat,PDF,Are you experiencing difficulty swallowing?,yes_no,Present in the uploaded PDF or its page image.,8
+S093,Swollen neck glands,Neck,PDF,Are you experiencing swollen neck glands?,yes_no,Present in the uploaded PDF or its page image.,8
+S094,Bad breath,Mouth,PDF,Are you experiencing bad breath?,yes_no,Present in the uploaded PDF or its page image.,8
+S095,Vomiting after meals,Abdomen,Supplemental,Are you experiencing vomiting after meals?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S096,Pain after fatty meals,Abdomen,PDF,Are you experiencing pain after fatty meals?,yes_no,Present in the uploaded PDF or its page image.,9
+S097,Ear pain,Ear,PDF,Are you experiencing ear pain?,yes_no,Present in the uploaded PDF or its page image.,9
+S098,Reduced hearing,Ear,PDF,Are you experiencing reduced hearing?,yes_no,Present in the uploaded PDF or its page image.,9
+S099,Irritability,General,PDF,Are you experiencing irritability?,yes_no,Present in the uploaded PDF or its page image.,9
+S100,Ear pressure/fullness,Ear,PDF,Are you experiencing ear pressure/fullness?,yes_no,Present in the uploaded PDF or its page image.,9
+S101,Fluid from ear,Ear,PDF,Are you experiencing fluid from ear?,yes_no,Present in the uploaded PDF or its page image.,9
+S102,Toothache,Mouth,PDF,Are you experiencing toothache?,yes_no,Present in the uploaded PDF or its page image.,9
+S103,Sensitivity to hot or cold,Mouth,PDF,Are you experiencing sensitivity to hot or cold?,yes_no,Present in the uploaded PDF or its page image.,9
+S104,Pain while chewing,Mouth,PDF,Are you experiencing pain while chewing?,yes_no,Present in the uploaded PDF or its page image.,9
+S105,Visible tooth holes,Mouth,PDF,Can you see holes in a tooth?,yes_no,Present in the uploaded PDF or its page image.,9
+S106,Tooth discoloration,Mouth,PDF,Are you experiencing tooth discoloration?,yes_no,Present in the uploaded PDF or its page image.,9
+S107,Red sores on skin,Skin,PDF,Are you experiencing red sores on skin?,yes_no,Present in the uploaded PDF or its page image.,10
+S108,Itchy blisters,Skin,PDF,Are you experiencing itchy blisters?,yes_no,Present in the uploaded PDF or its page image.,10
+S109,Yellow/honey-colored crusts,Skin,PDF,Are you experiencing yellow/honey-colored crusts?,yes_no,Present in the uploaded PDF or its page image.,10
+S110,Skin irritation,Skin,PDF,Are you experiencing skin irritation?,yes_no,Present in the uploaded PDF or its page image.,6;10
+S111,Swollen lymph nodes,General,PDF,Are you experiencing swollen lymph nodes?,yes_no,Present in the uploaded PDF or its page image.,10
+S112,Pimples,Skin,PDF,Are you experiencing pimples?,yes_no,Present in the uploaded PDF or its page image.,10
+S113,Blackheads,Skin,PDF,Are you experiencing blackheads?,yes_no,Present in the uploaded PDF or its page image.,10
+S114,Whiteheads,Skin,PDF,Are you experiencing whiteheads?,yes_no,Present in the uploaded PDF or its page image.,10
+S115,Oily skin,Skin,PDF,Are you experiencing oily skin?,yes_no,Present in the uploaded PDF or its page image.,10
+S116,Skin redness,Skin,PDF,Are you experiencing skin redness?,yes_no,Present in the uploaded PDF or its page image.,10
+S117,Skin inflammation,Skin,PDF,Are you experiencing skin inflammation?,yes_no,Present in the uploaded PDF or its page image.,10
+S118,Difficulty falling asleep,Sleep,PDF,Are you experiencing difficulty falling asleep?,yes_no,Present in the uploaded PDF or its page image.,11
+S119,Waking frequently,Sleep,PDF,Are you experiencing waking frequently?,yes_no,Present in the uploaded PDF or its page image.,11
+S120,Early waking,Sleep,PDF,Are you experiencing early waking?,yes_no,Present in the uploaded PDF or its page image.,11
+S121,Daytime fatigue,Sleep,PDF,Are you experiencing daytime fatigue?,yes_no,Present in the uploaded PDF or its page image.,11
+S122,Irritability from poor sleep,Sleep,PDF,Are you experiencing irritability from poor sleep?,yes_no,Present in the uploaded PDF or its page image.,11
+S123,Poor concentration from poor sleep,Sleep,PDF,Are you experiencing poor concentration from poor sleep?,yes_no,Present in the uploaded PDF or its page image.,11
+S124,Recurring fevers,General,PDF,Are you experiencing recurring fevers?,yes_no,Present in the uploaded PDF or its page image.,11
+S125,Drenching night sweats,General,PDF,Are you experiencing drenching night sweats?,yes_no,Present in the uploaded PDF or its page image.,11
+S126,Prolonged swollen lymph nodes,General,PDF,Are you experiencing prolonged swollen lymph nodes?,yes_no,Present in the uploaded PDF or its page image.,11
+S127,Chills,General,PDF,Are you experiencing chills?,yes_no,Present in the uploaded PDF or its page image.,12
+S128,Skin rash,Skin,PDF,Do you have a skin rash?,yes_no,Present in the uploaded PDF or its page image.,11
+S129,Painful joint aches,Musculoskeletal,PDF,Are you experiencing painful joint aches?,yes_no,Present in the uploaded PDF or its page image.,supplemental
+S130,Sudden high fever,General,PDF,Are you experiencing sudden high fever?,yes_no,Present in the uploaded PDF or its page image.,12
+S131,Severe joint pain,Musculoskeletal,PDF,Are you experiencing severe joint pain?,yes_no,Present in the uploaded PDF or its page image.,12
+S132,Profuse sweating,General,PDF,Are you experiencing profuse sweating?,yes_no,Present in the uploaded PDF or its page image.,12
+S133,Fever,General,PDF,Do you have a fever?,yes_no,Present in the uploaded PDF or its page image.,3;6;7;8;9;12
+S134,Neck stiffness,Neck,Supplemental,Are you experiencing neck stiffness?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S135,Muscle aches,Musculoskeletal,Supplemental,Are you experiencing muscle aches?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S136,Abdominal pain,Abdomen,Supplemental,Are you experiencing abdominal pain?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S137,Eye irritation,Eyes/Head,Supplemental,Are you experiencing eye irritation?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S138,Skin sores that do not heal,Skin,Supplemental,Are you experiencing skin sores that do not heal?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S139,Pale skin,General,Supplemental,Are you experiencing pale skin?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S140,Swelling of legs/ankles,General,Supplemental,Are you experiencing swelling of legs/ankles?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S141,Heartburn,Abdomen,Supplemental,Are you experiencing heartburn?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S142,Feeling faint,Head,Supplemental,Are you experiencing feeling faint?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S143,Loss of appetite with nausea,Abdomen,Supplemental,Are you experiencing loss of appetite with nausea?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S144,Cough with sputum,Chest,Supplemental,Are you experiencing cough with sputum?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S145,Difficulty breathing at rest,Chest,Supplemental,Are you experiencing difficulty breathing at rest?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S146,Sore mouth,Mouth,Supplemental,Are you experiencing sore mouth?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S147,Weakness,General,Supplemental,Are you experiencing weakness?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S148,Difficulty concentrating,Mental,Supplemental,Are you experiencing difficulty concentrating?,yes_no,Added to complete prototype symptom/question coverage; clinically review before deployment.,supplemental
+S149,Often no early symptoms,General,PDF,Do you currently have no noticeable symptoms?,yes_no,Present in the uploaded PDF or its page image.,7
+S150,Excessive thirst,General,PDF,Are you experiencing excessive thirst?,yes_no,Present in the uploaded PDF or its page image.,6
+S151,Shaking chills,General,PDF,Are you experiencing shaking chills?,yes_no,Present in the uploaded PDF or its page image.,12
