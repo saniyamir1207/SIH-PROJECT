@@ -1,0 +1,151 @@
+question_id,branch,symptom_id,question_text,answer_type,next_on_yes,next_on_no,priority
+Q001,Head/Eyes/Neurological,S003,Are you experiencing numbness or tingling?,yes_no,Q002,Q002,standard
+Q002,Head/Eyes/Neurological,S010,Are you experiencing blurred vision?,yes_no,Q003,Q003,standard
+Q003,Head/Eyes/Neurological,S016,Are you experiencing tremor?,yes_no,Q004,Q004,standard
+Q004,Head/Eyes/Neurological,S021,Have you experienced sudden weakness?,yes_no,Q005,Q005,urgent_review
+Q005,Head/Eyes/Neurological,S022,Have you experienced sudden dizziness?,yes_no,Q006,Q006,standard
+Q006,Head/Eyes/Neurological,S023,Have you experienced sudden confusion?,yes_no,Q007,Q007,urgent_review
+Q007,Head/Eyes/Neurological,S024,Are you having difficulty speaking?,yes_no,Q008,Q008,urgent_review
+Q008,Head/Eyes/Neurological,S025,Have you noticed facial drooping?,yes_no,Q009,Q009,urgent_review
+Q009,Head/Eyes/Neurological,S026,Are you having trouble with balance or coordination?,yes_no,Q010,Q010,standard
+Q010,Head/Eyes/Neurological,S027,Are you experiencing severe headache?,yes_no,Q011,Q011,urgent_review
+Q011,Head/Eyes/Neurological,S055,Have you lost your sense of taste or smell?,yes_no,Q012,Q012,standard
+Q012,Head/Eyes/Neurological,S074,Are you experiencing headache?,yes_no,Q013,Q013,standard
+Q013,Head/Eyes/Neurological,S080,Are you experiencing painful swollen cheeks/jaw?,yes_no,Q014,Q014,standard
+Q014,Head/Eyes/Neurological,S084,Do you have red or watery eyes?,yes_no,Q015,Q015,standard
+Q015,Head/Eyes/Neurological,S137,Are you experiencing eye irritation?,yes_no,Q016,Q016,standard
+Q016,Head/Eyes/Neurological,S142,Are you experiencing feeling faint?,yes_no,PREDICT,PREDICT,urgent_review
+Q017,Chest/Breathing,S005,Are you experiencing shortness of breath?,yes_no,Q018,Q018,urgent_review
+Q018,Chest/Breathing,S014,Are you experiencing fast or irregular heartbeat?,yes_no,Q019,Q019,standard
+Q019,Chest/Breathing,S017,Are you experiencing chronic cough?,yes_no,Q020,Q020,standard
+Q020,Chest/Breathing,S018,Are you experiencing wheezing?,yes_no,Q021,Q021,standard
+Q021,Chest/Breathing,S019,Are you experiencing increased sputum/phlegm?,yes_no,Q022,Q022,standard
+Q022,Chest/Breathing,S020,Are you experiencing breathlessness during activity?,yes_no,Q023,Q023,standard
+Q023,Chest/Breathing,S034,Are you experiencing rapid heartbeat?,yes_no,Q024,Q024,standard
+Q024,Chest/Breathing,S038,Are you experiencing chest pain or discomfort?,yes_no,Q025,Q025,urgent_review
+Q025,Chest/Breathing,S045,Are you experiencing cough lasting more than three weeks?,yes_no,Q026,Q026,standard
+Q026,Chest/Breathing,S046,Are you coughing up blood or blood-stained sputum?,yes_no,Q027,Q027,urgent_review
+Q027,Chest/Breathing,S054,Are you experiencing dry cough?,yes_no,Q028,Q028,standard
+Q028,Chest/Breathing,S056,Are you experiencing chest tightness?,yes_no,Q029,Q029,standard
+Q029,Chest/Breathing,S057,Are you experiencing persistent coughing?,yes_no,Q030,Q030,standard
+Q030,Chest/Breathing,S064,Are you experiencing cough with phlegm or pus?,yes_no,Q031,Q031,standard
+Q031,Chest/Breathing,S065,Are you experiencing sharp chest pain when breathing?,yes_no,Q032,Q032,urgent_review
+Q032,Chest/Breathing,S083,Are you experiencing cough?,yes_no,Q033,Q033,standard
+Q033,Chest/Breathing,S144,Are you experiencing cough with sputum?,yes_no,Q034,Q034,standard
+Q034,Chest/Breathing,S145,Are you experiencing difficulty breathing at rest?,yes_no,PREDICT,PREDICT,urgent_review
+Q035,Abdomen/Digestion,S041,Are you experiencing dark-colored urine?,yes_no,Q036,Q036,standard
+Q036,Abdomen/Digestion,S042,Are you experiencing pale or clay-colored stools?,yes_no,Q037,Q037,standard
+Q037,Abdomen/Digestion,S043,Have you noticed yellowing of your skin or eyes?,yes_no,Q038,Q038,standard
+Q038,Abdomen/Digestion,S049,Are you experiencing sudden severe watery diarrhea?,yes_no,Q039,Q039,standard
+Q039,Abdomen/Digestion,S050,Are you experiencing vomiting?,yes_no,Q040,Q040,standard
+Q040,Abdomen/Digestion,S058,Are you experiencing nausea?,yes_no,Q041,Q041,standard
+Q041,Abdomen/Digestion,S059,Are you experiencing stomach cramps?,yes_no,Q042,Q042,standard
+Q042,Abdomen/Digestion,S061,Are you experiencing watery diarrhea?,yes_no,Q043,Q043,standard
+Q043,Abdomen/Digestion,S062,Are you experiencing upper-right abdominal pain?,yes_no,Q044,Q044,standard
+Q044,Abdomen/Digestion,S063,Are you experiencing nausea and upper-right abdominal pain?,yes_no,Q045,Q045,standard
+Q045,Abdomen/Digestion,S087,Are you experiencing burning stomach pain?,yes_no,Q046,Q046,standard
+Q046,Abdomen/Digestion,S088,Are you experiencing bloating?,yes_no,Q047,Q047,standard
+Q047,Abdomen/Digestion,S089,Are you experiencing indigestion?,yes_no,Q048,Q048,standard
+Q048,Abdomen/Digestion,S090,Are you experiencing belching?,yes_no,Q049,Q049,standard
+Q049,Abdomen/Digestion,S095,Are you experiencing vomiting after meals?,yes_no,Q050,Q050,standard
+Q050,Abdomen/Digestion,S096,Are you experiencing pain after fatty meals?,yes_no,Q051,Q051,standard
+Q051,Abdomen/Digestion,S136,Are you experiencing abdominal pain?,yes_no,Q052,Q052,standard
+Q052,Abdomen/Digestion,S141,Are you experiencing heartburn?,yes_no,Q053,Q053,standard
+Q053,Abdomen/Digestion,S143,Are you experiencing loss of appetite with nausea?,yes_no,PREDICT,PREDICT,standard
+Q054,Skin,S006,Are you experiencing dry or itchy skin?,yes_no,Q055,Q055,standard
+Q055,Skin,S040,Are you experiencing itchy skin?,yes_no,Q056,Q056,standard
+Q056,Skin,S044,Are you experiencing hair and skin changes?,yes_no,Q057,Q057,standard
+Q057,Skin,S071,Are you experiencing itchy rash?,yes_no,Q058,Q058,standard
+Q058,Skin,S072,Do you have fluid-filled blisters?,yes_no,Q059,Q059,standard
+Q059,Skin,S085,Do you have a skin rash?,yes_no,Q060,Q060,standard
+Q060,Skin,S107,Are you experiencing red sores on skin?,yes_no,Q061,Q061,standard
+Q061,Skin,S108,Are you experiencing itchy blisters?,yes_no,Q062,Q062,standard
+Q062,Skin,S109,Are you experiencing yellow/honey-colored crusts?,yes_no,Q063,Q063,standard
+Q063,Skin,S110,Are you experiencing skin irritation?,yes_no,Q064,Q064,standard
+Q064,Skin,S112,Are you experiencing pimples?,yes_no,Q065,Q065,standard
+Q065,Skin,S113,Are you experiencing blackheads?,yes_no,Q066,Q066,standard
+Q066,Skin,S114,Are you experiencing whiteheads?,yes_no,Q067,Q067,standard
+Q067,Skin,S115,Are you experiencing oily skin?,yes_no,Q068,Q068,standard
+Q068,Skin,S116,Are you experiencing skin redness?,yes_no,Q069,Q069,standard
+Q069,Skin,S117,Are you experiencing skin inflammation?,yes_no,Q070,Q070,standard
+Q070,Skin,S128,Do you have a skin rash?,yes_no,Q071,Q071,standard
+Q071,Skin,S138,Are you experiencing skin sores that do not heal?,yes_no,PREDICT,PREDICT,standard
+Q072,Nose/Throat/Neck,S015,Are you experiencing neck swelling?,yes_no,Q073,Q073,standard
+Q073,Nose/Throat/Neck,S037,Have you had a nosebleed?,yes_no,Q074,Q074,standard
+Q074,Nose/Throat/Neck,S066,Are you experiencing runny or stuffy nose?,yes_no,Q075,Q075,standard
+Q075,Nose/Throat/Neck,S067,Are you experiencing sore throat?,yes_no,Q076,Q076,standard
+Q076,Nose/Throat/Neck,S068,Are you experiencing sneezing?,yes_no,Q077,Q077,standard
+Q077,Nose/Throat/Neck,S091,Are you experiencing swollen tonsils?,yes_no,Q078,Q078,standard
+Q078,Nose/Throat/Neck,S092,Are you experiencing difficulty swallowing?,yes_no,Q079,Q079,standard
+Q079,Nose/Throat/Neck,S093,Are you experiencing swollen neck glands?,yes_no,Q080,Q080,standard
+Q080,Nose/Throat/Neck,S134,Are you experiencing neck stiffness?,yes_no,PREDICT,PREDICT,standard
+Q081,Ear,S097,Are you experiencing ear pain?,yes_no,Q082,Q082,standard
+Q082,Ear,S098,Are you experiencing reduced hearing?,yes_no,Q083,Q083,standard
+Q083,Ear,S100,Are you experiencing ear pressure/fullness?,yes_no,Q084,Q084,standard
+Q084,Ear,S101,Are you experiencing fluid from ear?,yes_no,PREDICT,PREDICT,standard
+Q085,Mouth/Dental,S081,Are you experiencing difficulty chewing?,yes_no,Q086,Q086,standard
+Q086,Mouth/Dental,S086,Are you experiencing small spots inside mouth?,yes_no,Q087,Q087,standard
+Q087,Mouth/Dental,S094,Are you experiencing bad breath?,yes_no,Q088,Q088,standard
+Q088,Mouth/Dental,S102,Are you experiencing toothache?,yes_no,Q089,Q089,standard
+Q089,Mouth/Dental,S103,Are you experiencing sensitivity to hot or cold?,yes_no,Q090,Q090,standard
+Q090,Mouth/Dental,S104,Are you experiencing pain while chewing?,yes_no,Q091,Q091,standard
+Q091,Mouth/Dental,S105,Can you see holes in a tooth?,yes_no,Q092,Q092,standard
+Q092,Mouth/Dental,S106,Are you experiencing tooth discoloration?,yes_no,Q093,Q093,standard
+Q093,Mouth/Dental,S146,Are you experiencing sore mouth?,yes_no,PREDICT,PREDICT,standard
+Q094,Muscles/Joints/Bones,S052,Are you experiencing muscle cramps?,yes_no,Q095,Q095,standard
+Q095,Muscles/Joints/Bones,S069,Are you experiencing mild body aches?,yes_no,Q096,Q096,standard
+Q096,Muscles/Joints/Bones,S075,Are you experiencing back pain?,yes_no,Q097,Q097,standard
+Q097,Muscles/Joints/Bones,S076,Are you experiencing loss of height?,yes_no,Q098,Q098,standard
+Q098,Muscles/Joints/Bones,S077,Are you experiencing stooped posture?,yes_no,Q099,Q099,standard
+Q099,Muscles/Joints/Bones,S078,Are you experiencing fracture?,yes_no,Q100,Q100,urgent_review
+Q100,Muscles/Joints/Bones,S079,Are you experiencing bone weakness?,yes_no,Q101,Q101,standard
+Q101,Muscles/Joints/Bones,S129,Are you experiencing painful joint aches?,yes_no,Q102,Q102,standard
+Q102,Muscles/Joints/Bones,S131,Are you experiencing severe joint pain?,yes_no,Q103,Q103,standard
+Q103,Muscles/Joints/Bones,S135,Are you experiencing muscle aches?,yes_no,PREDICT,PREDICT,standard
+Q104,Mental/Emotional,S028,Are you experiencing persistent sadness or hopelessness?,yes_no,Q105,Q105,standard
+Q105,Mental/Emotional,S029,Are you experiencing loss of interest in activities?,yes_no,Q106,Q106,standard
+Q106,Mental/Emotional,S030,Are you experiencing trouble concentrating?,yes_no,Q107,Q107,standard
+Q107,Mental/Emotional,S031,Are you experiencing mood swings?,yes_no,Q108,Q108,standard
+Q108,Mental/Emotional,S032,Are you experiencing excessive worry?,yes_no,Q109,Q109,standard
+Q109,Mental/Emotional,S033,Are you experiencing restlessness?,yes_no,Q110,Q110,standard
+Q110,Mental/Emotional,S148,Are you experiencing difficulty concentrating?,yes_no,PREDICT,PREDICT,standard
+Q111,Sleep,S036,Are you experiencing sleep problems?,yes_no,Q112,Q112,standard
+Q112,Sleep,S118,Are you experiencing difficulty falling asleep?,yes_no,Q113,Q113,standard
+Q113,Sleep,S119,Are you experiencing waking frequently?,yes_no,Q114,Q114,standard
+Q114,Sleep,S120,Are you experiencing early waking?,yes_no,Q115,Q115,standard
+Q115,Sleep,S121,Are you experiencing daytime fatigue?,yes_no,Q116,Q116,standard
+Q116,Sleep,S122,Are you experiencing irritability from poor sleep?,yes_no,Q117,Q117,standard
+Q117,Sleep,S123,Are you experiencing poor concentration from poor sleep?,yes_no,PREDICT,PREDICT,standard
+Q118,General/Systemic,S001,Are you experiencing increased thirst?,yes_no,Q119,Q119,standard
+Q119,General/Systemic,S002,Are you experiencing increased hunger?,yes_no,Q120,Q120,standard
+Q120,General/Systemic,S004,Are you experiencing tiredness or fatigue?,yes_no,Q121,Q121,standard
+Q121,General/Systemic,S007,Are you experiencing frequent infections?,yes_no,Q122,Q122,standard
+Q122,General/Systemic,S008,Are you experiencing frequent urination?,yes_no,Q123,Q123,standard
+Q123,General/Systemic,S009,Are you experiencing unexplained weight loss?,yes_no,Q124,Q124,standard
+Q124,General/Systemic,S011,Are you experiencing heat intolerance?,yes_no,Q125,Q125,standard
+Q125,General/Systemic,S012,Are you experiencing cold intolerance?,yes_no,Q126,Q126,standard
+Q126,General/Systemic,S013,Are you experiencing weight change?,yes_no,Q127,Q127,standard
+Q127,General/Systemic,S035,Are you experiencing sweating?,yes_no,Q128,Q128,standard
+Q128,General/Systemic,S039,Are you experiencing unexplained fatigue?,yes_no,Q129,Q129,standard
+Q129,General/Systemic,S047,Are you experiencing night sweats?,yes_no,Q130,Q130,standard
+Q130,General/Systemic,S048,Are you experiencing weight loss with prolonged illness?,yes_no,Q131,Q131,standard
+Q131,General/Systemic,S051,Are you showing signs of rapid dehydration?,yes_no,Q132,Q132,urgent_review
+Q132,General/Systemic,S053,Are you experiencing fever with chills?,yes_no,Q133,Q133,standard
+Q133,General/Systemic,S060,Are you experiencing low-grade fever?,yes_no,Q134,Q134,standard
+Q134,General/Systemic,S070,Are you experiencing extreme fatigue?,yes_no,Q135,Q135,standard
+Q135,General/Systemic,S073,Are you experiencing loss of appetite?,yes_no,Q136,Q136,standard
+Q136,General/Systemic,S082,Are you experiencing a high fever?,yes_no,Q137,Q137,standard
+Q137,General/Systemic,S099,Are you experiencing irritability?,yes_no,Q138,Q138,standard
+Q138,General/Systemic,S111,Are you experiencing swollen lymph nodes?,yes_no,Q139,Q139,standard
+Q139,General/Systemic,S124,Are you experiencing recurring fevers?,yes_no,Q140,Q140,standard
+Q140,General/Systemic,S125,Are you experiencing drenching night sweats?,yes_no,Q141,Q141,standard
+Q141,General/Systemic,S126,Are you experiencing prolonged swollen lymph nodes?,yes_no,Q142,Q142,standard
+Q142,General/Systemic,S127,Are you experiencing chills?,yes_no,Q143,Q143,standard
+Q143,General/Systemic,S130,Are you experiencing sudden high fever?,yes_no,Q144,Q144,urgent_review
+Q144,General/Systemic,S132,Are you experiencing profuse sweating?,yes_no,Q145,Q145,standard
+Q145,General/Systemic,S133,Do you have a fever?,yes_no,Q146,Q146,standard
+Q146,General/Systemic,S139,Are you experiencing pale skin?,yes_no,Q147,Q147,standard
+Q147,General/Systemic,S140,Are you experiencing swelling of legs/ankles?,yes_no,Q148,Q148,standard
+Q148,General/Systemic,S147,Are you experiencing weakness?,yes_no,Q149,Q149,standard
+Q149,General/Systemic,S150,Are you experiencing excessive thirst?,yes_no,Q150,Q150,standard
+Q150,General/Systemic,S151,Are you experiencing shaking chills?,yes_no,PREDICT,PREDICT,standard

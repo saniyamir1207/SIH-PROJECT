@@ -1,0 +1,11 @@
+file,purpose
+diseases.csv,"34 disease labels from the uploaded PDF, normalized IDs, body-system grouping, source page and prototype note."
+symptoms.csv,"151 unique normalized symptoms/signs with body area, source provenance, and user-facing question text."
+disease_symptoms.csv,Long-format disease-to-symptom associations; 243 unique relationships.
+disease_symptom_matrix.csv,34-row binary feature matrix suitable as a prototype disease-profile matrix for the classifier/scoring layer.
+question_bank.csv,"150 yes/no symptom questions grouped by branch, with sequential next-question links."
+branch_starts.csv,Maps each body-area branch to its first question.
+body_area_options.csv,Initial body-area routing choices for the app.
+initial_routing_question.csv,The first routing question shown after disease detection is opened.
+safety_rules.csv,Urgent-review triggers for the questionnaire; these should interrupt or flag normal flow.
+validation_report.csv,"Automated quality checks for nulls, duplicates, IDs and references."

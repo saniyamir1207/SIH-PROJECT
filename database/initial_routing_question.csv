@@ -1,0 +1,2 @@
+question_id,question_text,answer_type,options,note
+Q000,Where are you mainly experiencing the problem?,single_choice,Head/Eyes/Neurological|Chest/Breathing|Abdomen/Digestion|Skin|Nose/Throat/Neck|Ear|Mouth/Dental|Muscles/Joints/Bones|Mental/Emotional|Sleep|General/Systemic,"For multi-area complaints, the app should allow the user to add another area after completing the first branch."

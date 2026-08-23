@@ -1,0 +1,15 @@
+rule_id,symptom_id,symptom_name,trigger_level,action
+R001,S021,Sudden weakness,urgent,Possible stroke warning sign. Stop normal questionnaire and advise urgent medical evaluation.
+R002,S023,Sudden confusion,urgent,Possible stroke warning sign. Stop normal questionnaire and advise urgent medical evaluation.
+R003,S024,Difficulty speaking,urgent,Possible stroke warning sign. Stop normal questionnaire and advise urgent medical evaluation.
+R004,S025,Facial drooping,urgent,Possible stroke warning sign. Stop normal questionnaire and advise urgent medical evaluation.
+R005,S027,Severe headache,urgent,Severe or sudden headache can be a red flag; advise urgent medical evaluation.
+R006,S038,Chest pain or discomfort,urgent,Chest pain can be a medical emergency; advise urgent medical evaluation.
+R007,S005,Shortness of breath,urgent,"Breathing difficulty can require urgent assessment, especially if sudden or severe."
+R008,S046,Coughing up blood or sputum,urgent,Coughing up blood warrants prompt medical assessment.
+R009,S051,Rapid dehydration,urgent,Rapid dehydration can become dangerous; advise urgent medical assessment.
+R010,S145,Difficulty breathing at rest,urgent,Difficulty breathing at rest is a red flag; advise urgent medical evaluation.
+R011,S065,Sharp chest pain when breathing,urgent,Sharp chest pain with breathing can require urgent assessment.
+R012,S142,Feeling faint,urgent,"Fainting or near-fainting can require prompt assessment, particularly with chest symptoms."
+R013,S130,Sudden high fever,urgent,Sudden high fever with severe symptoms may require urgent medical assessment.
+R014,S078,Fracture,urgent,Suspected fracture should be assessed by a healthcare professional.

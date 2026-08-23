@@ -1,0 +1,12 @@
+area_id,branch,user_prompt
+A01,Head/Eyes/Neurological,"Head, eyes, dizziness, vision, sudden neurological changes"
+A02,Chest/Breathing,"Chest discomfort, cough, wheezing, breathing difficulty"
+A03,Abdomen/Digestion,"Stomach or abdominal pain, nausea, vomiting, diarrhea, bowel changes"
+A04,Skin,"Rash, itching, sores, pimples, blisters, skin changes"
+A05,Nose/Throat/Neck,"Nose, throat, tonsils, neck glands, swallowing"
+A06,Ear,"Ear pain, hearing, pressure, discharge"
+A07,Mouth/Dental,"Teeth, chewing, mouth symptoms"
+A08,Muscles/Joints/Bones,"Back pain, joint pain, muscle aches, fractures, bone symptoms"
+A09,Mental/Emotional,"Mood, worry, concentration, restlessness"
+A10,Sleep,"Falling asleep, waking, early waking, daytime fatigue"
+A11,General/Systemic,"Fever, chills, fatigue, thirst, urination, appetite, weight, generalized symptoms"

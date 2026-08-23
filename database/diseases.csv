@@ -1,0 +1,35 @@
+disease_id,disease_name,body_system,urgent_review_flag,source,note,pdf_page
+D001,Diabetes,Endocrine/metabolic,1,"Uploaded PDF; page layout contains interleaved warning-sign text, so symptom associations were normalized conservatively.",Prototype classification label; not a clinical diagnosis.,1
+D002,Thyroid Disorders,Endocrine,0,"Uploaded PDF; page layout contains interleaved warning-sign text, so symptom associations were normalized conservatively.",Prototype classification label; not a clinical diagnosis.,1
+D003,Chronic Obstructive Pulmonary Disease (COPD),Respiratory,0,"Uploaded PDF; page layout contains interleaved warning-sign text, so symptom associations were normalized conservatively.",Prototype classification label; not a clinical diagnosis.,1
+D004,Stroke,Neurological,1,"Uploaded PDF; page layout contains interleaved warning-sign text, so symptom associations were normalized conservatively.",Prototype classification label; not a clinical diagnosis.,1
+D005,Depression and Anxiety Disorder,Mental health,0,"Uploaded PDF; page layout contains interleaved warning-sign text, so symptom associations were normalized conservatively.",Prototype classification label; not a clinical diagnosis.,2
+D006,Hypertension,Cardiovascular,1,"Uploaded PDF; page layout contains interleaved warning-sign text, so symptom associations were normalized conservatively.",Prototype classification label; not a clinical diagnosis.,2
+D007,Liver Disease,Hepatic,0,"Uploaded PDF; page layout contains interleaved warning-sign text, so symptom associations were normalized conservatively.",Prototype classification label; not a clinical diagnosis.,2
+D008,Heart Disease,Cardiovascular,1,"Uploaded PDF; page layout contains interleaved warning-sign text, so symptom associations were normalized conservatively.",Prototype classification label; not a clinical diagnosis.,3
+D009,Tuberculosis (TB),Respiratory/infectious,0,Uploaded PDF + curated supplemental symptoms,Prototype classification label; not a clinical diagnosis.,3
+D010,Cholera,Gastrointestinal/infectious,1,Uploaded PDF + curated supplemental symptoms,Prototype classification label; not a clinical diagnosis.,4
+D011,COVID-19/Flu,Respiratory/infectious,0,Uploaded PDF + curated supplemental symptoms,Prototype classification label; not a clinical diagnosis.,4
+D012,Asthma,Respiratory,1,Uploaded PDF + curated supplemental symptoms,Prototype classification label; not a clinical diagnosis.,4
+D013,Gastroenteritis (Stomach flu),Gastrointestinal,0,Uploaded PDF + curated supplemental symptoms,Prototype classification label; not a clinical diagnosis.,5
+D014,Jaundice (Hepatitis),Hepatic/infectious,0,Uploaded PDF + curated supplemental symptoms,Prototype classification label; not a clinical diagnosis.,5
+D015,Pneumonia,Respiratory/infectious,1,Uploaded PDF + curated supplemental symptoms,Prototype classification label; not a clinical diagnosis.,5
+D016,Common Cold,Respiratory/infectious,0,Uploaded PDF + curated supplemental symptoms,Prototype classification label; not a clinical diagnosis.,6
+D017,Type 2 Diabetes,Endocrine/metabolic,0,Uploaded PDF + curated supplemental symptoms,Prototype classification label; not a clinical diagnosis.,6
+D018,Chickenpox,Infectious/dermatologic,0,Uploaded PDF + curated supplemental symptoms,Prototype classification label; not a clinical diagnosis.,6
+D019,Osteoporosis,Musculoskeletal,0,Uploaded PDF + curated supplemental symptoms,Prototype classification label; not a clinical diagnosis.,7
+D020,Anxiety Disorder,Mental health,0,Uploaded PDF + curated supplemental symptoms,Prototype classification label; not a clinical diagnosis.,7
+D021,Mumps,Infectious,0,Uploaded PDF + curated supplemental symptoms,Prototype classification label; not a clinical diagnosis.,7
+D022,Measles,Infectious,0,Uploaded PDF + curated supplemental symptoms,Prototype classification label; not a clinical diagnosis.,8
+D023,Peptic Ulcer Disease,Gastrointestinal,0,Uploaded PDF + curated supplemental symptoms,Prototype classification label; not a clinical diagnosis.,8
+D024,Tonsillitis,ENT/infectious,0,Uploaded PDF + curated supplemental symptoms,Prototype classification label; not a clinical diagnosis.,8
+D025,Gallstones,Hepatobiliary,1,Uploaded PDF + curated supplemental symptoms,Prototype classification label; not a clinical diagnosis.,9
+D026,Otitis Media (middle ear infection),ENT/infectious,0,Uploaded PDF + curated supplemental symptoms,Prototype classification label; not a clinical diagnosis.,9
+D027,Dental caries (tooth Decay),Dental,0,Uploaded PDF + curated supplemental symptoms,Prototype classification label; not a clinical diagnosis.,9
+D028,Impetigo,Dermatologic/infectious,0,Uploaded PDF + curated supplemental symptoms,Prototype classification label; not a clinical diagnosis.,10
+D029,Acne,Dermatologic,0,Uploaded PDF + curated supplemental symptoms,Prototype classification label; not a clinical diagnosis.,10
+D030,Insomnia,Sleep,0,Uploaded PDF + curated supplemental symptoms,Prototype classification label; not a clinical diagnosis.,11
+D031,AIDS,Infectious/immunologic,0,Uploaded PDF + curated supplemental symptoms,Prototype classification label; not a clinical diagnosis.,11
+D032,HIV,Infectious/immunologic,0,Uploaded PDF + curated supplemental symptoms,Prototype classification label; not a clinical diagnosis.,11
+D033,Chikungunya,Infectious/vector-borne,0,Uploaded PDF + curated supplemental symptoms,Prototype classification label; not a clinical diagnosis.,12
+D034,Malaria,Infectious/vector-borne,1,Uploaded PDF + curated supplemental symptoms,Prototype classification label; not a clinical diagnosis.,12

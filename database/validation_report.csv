@@ -1,0 +1,19 @@
+file,check,fail_count,base_status
+diseases.csv,base null/duplicate/column check,0,PASS
+symptoms.csv,base null/duplicate/column check,0,PASS
+disease_symptoms.csv,base null/duplicate/column check,0,PASS
+disease_symptom_matrix.csv,base null/duplicate/column check,0,PASS
+question_bank.csv,base null/duplicate/column check,0,PASS
+branch_starts.csv,base null/duplicate/column check,0,PASS
+body_area_options.csv,base null/duplicate/column check,0,PASS
+safety_rules.csv,base null/duplicate/column check,0,PASS
+initial_routing_question.csv,base null/duplicate/column check,0,PASS
+diseases.csv,duplicate disease IDs,0,PASS
+diseases.csv,duplicate disease names,0,PASS
+symptoms.csv,duplicate symptom IDs,0,PASS
+symptoms.csv,duplicate symptom names,0,PASS
+disease_symptoms.csv,missing disease references,0,PASS
+disease_symptoms.csv,missing symptom references,0,PASS
+question_bank.csv,missing symptom references,0,PASS
+safety_rules.csv,missing symptom references,0,PASS
+disease_symptom_matrix.csv,non-binary feature cells,0,PASS
